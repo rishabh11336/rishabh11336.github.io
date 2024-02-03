@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profile
-permalink: /profile/
+permalink: /
 ---
 
 ##  Name: Rishabh Singh
@@ -10,7 +10,7 @@ permalink: /profile/
 IIT Madras  
 BS in Data Science and Applications  
   
-I'm a `Data Science and Applications` student at IITM, actively pursuing opportunities in `Data Science`, `Python Development`, and `Data Analytics`.  
+I'm a `Data Science and Applications` student at IIT Madras, actively pursuing opportunities in `Data Science`, `Python Development`, and `Data Analytics.`  
 My skills span `Machine Learning`, `Web Development`, `Management`, and creative areas like `Writing`, `Photography`, and `Video Editing`.  
 Eager to apply my expertise, I'm on the lookout for dynamic roles that challenge me and offer room for growth.  
 Let's [connect](mailto:asusrishabh@outlook.com) for a meaningful collaboration!
