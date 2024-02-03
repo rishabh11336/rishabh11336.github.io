@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Profile
-permalink: /
+permalink: /profile
 ---
 
-##  Name: Rishabh Singh
+## Rishabh Singh
 ![profile_pic](../assets/image/prof_pic.jpg){: style="float: right; height: 130px; border-radius:55%;"}
 
 IIT Madras  
