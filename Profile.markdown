@@ -5,7 +5,7 @@ permalink: /profile
 ---
 
 ## Rishabh Singh
-![profile_pic](../assets/image/prof_pic.jpg){: style="float: right; height: 130px; border-radius:55%;"}
+![profile_pic](assets/image/prof_pic.jpg){: style="float: right; height: 130px; border-radius:55%;"}
 
 IIT Madras  
 BS in Data Science and Applications  
